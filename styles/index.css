@@ -1,0 +1,65 @@
+h1 {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
+
+table {
+  border: 1px solid #323232;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: 15px;
+  border: 1px solid #323232;
+}
+.contact {
+  display: block;
+  width: 150px;
+  margin: 30px auto;
+  padding: 10px 20px;
+  background: #f6f4f0;
+  border-radius: 30px;
+  text-align: center;
+  border: 1px solid #323232;
+}
+
+.nouveau {
+  position: absolute;
+  margin-left: 345px;
+  margin-top: -25px;
+}
+
+.connexion {
+  display: inline-block;
+  position: absolute;
+  margin-left: 465px;
+  margin-top: -25px;
+}
+
+.deconnexion {
+  position: absolute;
+  margin-left: 460px;
+  margin-top: 44px;
+}
+
+.panier {
+  display: inline-block;
+  position: absolute;
+  margin-left: 330px;
+  margin-top: 20px;
+}
+
+.bonjour {
+  margin-bottom: -97px;
+}
+
+.historique {
+  position: absolute;
+  margin-left: 120px;
+  margin-top: -28px;
+}

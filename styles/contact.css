@@ -1,0 +1,42 @@
+.photo_moi {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+.presentation {
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  width: 30%;
+}
+
+.nom_age {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.description {
+  margin-bottom: 10px;
+}
+
+.courriel {
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.retour_contact {
+  display: block;
+  margin-top: 80px;
+  padding: 10px 20px;
+  background-color: #f6f4f0;
+  border-radius: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  width: 5%;
+  border: 1px solid #323232;
+}

@@ -1,0 +1,71 @@
+h2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.retour_panier {
+  display: block;
+  margin-top: 20px;
+  padding: 5px 10px;
+  background-color: #f6f4f0;
+  border-radius: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 5%;
+  text-align: center;
+  border: 1px solid #323232;
+}
+
+.phrase_panier {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.phrase_commande {
+  display: block;
+  padding: 10px 20px;
+  background-color: #f6f4f0;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  text-align: center;
+  margin-top: 30px;
+  border: 1px solid #323232;
+}
+
+.bouton_retour {
+  display: block;
+  margin-top: 50px;
+  padding: 5px 5px;
+  background-color: #f6f4f0;
+  border-radius: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 20%;
+  text-align: center;
+  border: 1px solid #323232;
+}
+
+.phrase {
+  margin-top: 50px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.error_message {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+  margin-top: 20px;
+  color: red;
+}
